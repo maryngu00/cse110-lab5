@@ -1,1 +1,1 @@
-[![Build Status](https://travis-ci.com/maryngu00/IdeaProject.svg?token=MUzHWQdAffBzyMsvDT8g&branch=master)](https://travis-ci.com/maryngu00/IdeaProject)
+[![Build Status](https://travis-ci.org/maryngu00/cse110-lab5.svg?branch=master)](https://travis-ci.org/maryngu00/cse110-lab5)
